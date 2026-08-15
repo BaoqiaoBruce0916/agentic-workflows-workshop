@@ -2,25 +2,25 @@
   "date": "2026-08-15",
   "period_days": 30,
   "overall": {
-    "total_runs": 2,
+    "total_runs": 3,
     "total_ai_credits": 0,
-    "total_tokens": 0,
-    "total_action_minutes": 7
+    "total_tokens": 780002,
+    "total_action_minutes": 13
   },
   "workflows": [
     {
       "workflow_name": "Daily Agentic Workflow AIC Usage Audit",
-      "run_count": 1,
+      "run_count": 2,
       "total_ai_credits": 0,
       "avg_ai_credits": 0.0,
-      "total_tokens": 0,
-      "avg_tokens": 0,
-      "total_turns": 0,
-      "avg_turns": 0.0,
-      "total_action_minutes": 3,
-      "error_count": 1,
+      "total_tokens": 780002,
+      "avg_tokens": 390001,
+      "total_turns": 20,
+      "avg_turns": 10.0,
+      "total_action_minutes": 9,
+      "error_count": 2,
       "warning_count": 0,
-      "latest_run_url": "https://github.com/BaoqiaoBruce0916/agentic-workflows-workshop/actions/runs/31806336610"
+      "latest_run_url": "https://github.com/BaoqiaoBruce0916/agentic-workflows-workshop/actions/runs/31869504377"
     },
     {
       "workflow_name": "Agentic Workflow AIC Usage Optimizer",

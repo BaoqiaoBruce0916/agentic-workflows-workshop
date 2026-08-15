@@ -2,9 +2,9 @@
   {
     "date": "2026-08-15",
     "total_ai_credits": 0,
-    "total_tokens": 0,
-    "total_runs": 2,
-    "total_action_minutes": 7,
+    "total_tokens": 780002,
+    "total_runs": 3,
+    "total_action_minutes": 13,
     "active_workflows": 2
   }
 ]
